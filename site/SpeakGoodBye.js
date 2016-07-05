@@ -12,7 +12,7 @@
 
 // DO NOT attach the speakWord variable to the 'byeSpeaker' object.
 
-(fucntion (window){
+(function (window){
 
 var byeSpeaker = {};
 
